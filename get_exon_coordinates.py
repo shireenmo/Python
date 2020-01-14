@@ -1,7 +1,7 @@
 from BCBio import GFF
 import pandas as pd
 
-"""This code will read the relevant portions of the indica GFF files to get exon coordinates 
+"""Code will read the relevant portions of the indica GFF files to get exon coordinates 
 of possible TFs from preliminary files manually created from BLAST for N22 and BGI"""
 # Indica
 in_file = "/Users/shiree/Desktop/rice-tf-db/get_exon_coordinates/Oryza_indica.ASM465v1.44.gff3"
